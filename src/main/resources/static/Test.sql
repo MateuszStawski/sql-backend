@@ -16,3 +16,6 @@ VALUES (5, 'AAAA444', 103, 'KAPIEL');
 INSERT INTO poli.product (id, name, price, category)
 VALUES (6, 'AAAA555', 104, 'MASAZ');
 
+INSERT INTO poli.basket (id)
+VALUES (1);
+

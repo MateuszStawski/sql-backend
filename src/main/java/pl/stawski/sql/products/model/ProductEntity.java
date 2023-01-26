@@ -24,4 +24,6 @@ public class ProductEntity {
     private Integer price;
 
     private String category;
+
+    private Integer amount = 0;
 }
